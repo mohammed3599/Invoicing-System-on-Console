@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNg6ZBfFpWC8A8kmUXEISApqe4WxpAVp1D1jAFlwYrsP9AeNOeK/UMeWPliscUD3SC75wGZv8xZYsrSrr7COvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LAB-7\\source\\repos\\Evaluation_Task\\Evaluation_Task\\Evaluation_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAB-7\\.nuget\\packages\\jsonconverter.abstractions\\0.4.0\\jsonconverter.abstractions.0.4.0.nupkg.sha512",
+    "C:\\Users\\LAB-7\\.nuget\\packages\\jsonconverter.newtonsoft.json\\0.4.0\\jsonconverter.newtonsoft.json.0.4.0.nupkg.sha512",
+    "C:\\Users\\LAB-7\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\LAB-7\\.nuget\\packages\\stef.validation\\0.1.1\\stef.validation.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

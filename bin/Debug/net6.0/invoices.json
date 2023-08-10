@@ -1,0 +1,88 @@
+[
+  {
+    "CustomerFullName": "oiyutyt kjkhjgh",
+    "PhoneNumber": "9876512",
+    "InvoiceDate": "2023-08-10T19:58:39.7175116+04:00",
+    "Items": [
+      {
+        "ItemId": 2,
+        "ItemName": "water",
+        "UnitPrice": 0.1,
+        "Quantity": 3,
+        "TotalPrice": 0.3
+      },
+      {
+        "ItemId": 4,
+        "ItemName": "juice",
+        "UnitPrice": 0.3,
+        "Quantity": 4,
+        "TotalPrice": 1.2
+      }
+    ],
+    "TotalAmount": 1.5,
+    "PaidAmount": 10.0,
+    "Balance": -8.5
+  },
+  {
+    "CustomerFullName": "wert",
+    "PhoneNumber": "123456",
+    "InvoiceDate": "2023-08-10T20:02:08.142924+04:00",
+    "Items": [
+      {
+        "ItemId": 2,
+        "ItemName": "water",
+        "UnitPrice": 0.1,
+        "Quantity": 3,
+        "TotalPrice": 0.3
+      }
+    ],
+    "TotalAmount": 0.3,
+    "PaidAmount": 2.0,
+    "Balance": -1.7
+  },
+  {
+    "CustomerFullName": "qwer oiuy",
+    "PhoneNumber": "12345678",
+    "InvoiceDate": "2023-08-10T20:07:26.9768331+04:00",
+    "Items": [
+      {
+        "ItemId": 2,
+        "ItemName": "water",
+        "UnitPrice": 0.1,
+        "Quantity": 4,
+        "TotalPrice": 0.4
+      },
+      {
+        "ItemId": 4,
+        "ItemName": "juice",
+        "UnitPrice": 7.0,
+        "Quantity": 1,
+        "TotalPrice": 7.0
+      },
+      {
+        "ItemId": 1,
+        "ItemName": "milk",
+        "UnitPrice": 1.1,
+        "Quantity": 5,
+        "TotalPrice": 5.5
+      },
+      {
+        "ItemId": 12,
+        "ItemName": "choclate",
+        "UnitPrice": 0.4,
+        "Quantity": 4,
+        "TotalPrice": 1.6
+      },
+      {
+        "ItemId": 3,
+        "ItemName": "bread",
+        "UnitPrice": 0.2,
+        "Quantity": 3,
+        "TotalPrice": 0.6
+      }
+    ],
+    "TotalAmount": 15.1,
+    "PaidAmount": 50.0,
+    "Balance": -34.9
+  }
+]
